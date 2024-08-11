@@ -17,6 +17,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syerikkh&show_icons=true&theme=radical)
+
 
 <div align="center">
 <a href="https://github.com/syerikkh">
